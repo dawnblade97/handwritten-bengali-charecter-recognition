@@ -32,3 +32,8 @@
  you can install tensorflow gpu if you have a graphics card.
  
  
+to run model.py run as following
+
+python model.py --train for training
+python model.py --test <image name> for testing
+
